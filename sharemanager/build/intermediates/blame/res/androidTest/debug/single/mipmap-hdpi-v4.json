@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\ShareManager\\sharemanager\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\ShareManager\\sharemanager\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ShareManager\\sharemanager\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\share_icon.png",
+        "source": "F:\\ShareManager\\sharemanager\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\share_icon.png"
+    },
+    {
+        "merged": "F:\\ShareManager\\sharemanager\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "F:\\ShareManager\\sharemanager\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\ssdk_oks_ptr_ptr.png"
+    }
+]

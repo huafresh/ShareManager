@@ -1,0 +1,3994 @@
+[
+    {
+        "outputFile": "F:\\ShareManager\\sharemanager\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 16,
+                    "endColumn": 16,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 16,
+                        "endColumn": 16,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endLine": 36,
+                    "endColumn": 16,
+                    "endOffset": 2051
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 994,
+                        "endLine": 37,
+                        "endColumn": 16,
+                        "endOffset": 2087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2056,
+                    "endLine": 55,
+                    "endColumn": 16,
+                    "endOffset": 3230
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 2093,
+                        "endLine": 57,
+                        "endColumn": 16,
+                        "endOffset": 3285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3235,
+                    "endLine": 62,
+                    "endColumn": 16,
+                    "endOffset": 3638
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 3291,
+                        "endLine": 65,
+                        "endColumn": 16,
+                        "endOffset": 3700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3643,
+                    "endLine": 71,
+                    "endColumn": 16,
+                    "endOffset": 4046
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 1,
+                        "startOffset": 3706,
+                        "endLine": 75,
+                        "endColumn": 16,
+                        "endOffset": 4117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4051,
+                    "endLine": 79,
+                    "endColumn": 16,
+                    "endOffset": 4553
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 1,
+                        "startOffset": 4123,
+                        "endLine": 84,
+                        "endColumn": 16,
+                        "endOffset": 4632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4558,
+                    "endLine": 96,
+                    "endColumn": 16,
+                    "endOffset": 5499
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 1,
+                        "startOffset": 4638,
+                        "endLine": 102,
+                        "endColumn": 16,
+                        "endOffset": 5595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5504,
+                    "endLine": 102,
+                    "endColumn": 16,
+                    "endOffset": 5838
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 1,
+                        "startOffset": 5601,
+                        "endLine": 109,
+                        "endColumn": 16,
+                        "endOffset": 5940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5843,
+                    "endLine": 113,
+                    "endColumn": 16,
+                    "endOffset": 8347
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 1,
+                        "startOffset": 5946,
+                        "endLine": 121,
+                        "endColumn": 16,
+                        "endOffset": 8460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8352,
+                    "endLine": 119,
+                    "endColumn": 16,
+                    "endOffset": 9224
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 1,
+                        "startOffset": 8466,
+                        "endLine": 128,
+                        "endColumn": 16,
+                        "endOffset": 9343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 9229,
+                    "endLine": 126,
+                    "endColumn": 16,
+                    "endOffset": 9534
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 1,
+                        "startOffset": 9349,
+                        "endLine": 136,
+                        "endColumn": 16,
+                        "endOffset": 9660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 9539,
+                    "endLine": 137,
+                    "endColumn": 16,
+                    "endOffset": 10079
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 1,
+                        "startOffset": 9666,
+                        "endLine": 148,
+                        "endColumn": 16,
+                        "endOffset": 10216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 10084,
+                    "endLine": 160,
+                    "endColumn": 16,
+                    "endOffset": 11245
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 1,
+                        "startOffset": 10222,
+                        "endLine": 172,
+                        "endColumn": 16,
+                        "endOffset": 11405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 11250,
+                    "endLine": 173,
+                    "endColumn": 16,
+                    "endOffset": 12081
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 1,
+                        "startOffset": 11411,
+                        "endLine": 186,
+                        "endColumn": 16,
+                        "endOffset": 12254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 12086,
+                    "endLine": 176,
+                    "endColumn": 16,
+                    "endOffset": 12187
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 1,
+                        "startOffset": 12260,
+                        "endLine": 190,
+                        "endColumn": 16,
+                        "endOffset": 12363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 12192,
+                    "endLine": 189,
+                    "endColumn": 16,
+                    "endOffset": 12928
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 1,
+                        "startOffset": 12369,
+                        "endLine": 204,
+                        "endColumn": 16,
+                        "endOffset": 13117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 12933,
+                    "endLine": 192,
+                    "endColumn": 16,
+                    "endOffset": 13035
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 1,
+                        "startOffset": 13123,
+                        "endLine": 208,
+                        "endColumn": 16,
+                        "endOffset": 13227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 13040,
+                    "endLine": 199,
+                    "endColumn": 16,
+                    "endOffset": 13410
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 1,
+                        "startOffset": 13233,
+                        "endLine": 216,
+                        "endColumn": 16,
+                        "endOffset": 13609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 13415,
+                    "endLine": 229,
+                    "endColumn": 16,
+                    "endOffset": 15308
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 1,
+                        "startOffset": 13615,
+                        "endLine": 247,
+                        "endColumn": 16,
+                        "endOffset": 15537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 15313,
+                    "endLine": 242,
+                    "endColumn": 16,
+                    "endOffset": 16087
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 1,
+                        "startOffset": 15543,
+                        "endLine": 261,
+                        "endColumn": 16,
+                        "endOffset": 16329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 16092,
+                    "endLine": 251,
+                    "endColumn": 16,
+                    "endOffset": 17328
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 1,
+                        "startOffset": 16335,
+                        "endLine": 271,
+                        "endColumn": 16,
+                        "endOffset": 17579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 17333,
+                    "endLine": 258,
+                    "endColumn": 16,
+                    "endOffset": 17657
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 1,
+                        "startOffset": 17585,
+                        "endLine": 279,
+                        "endColumn": 16,
+                        "endOffset": 17915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 17662,
+                    "endLine": 261,
+                    "endColumn": 16,
+                    "endOffset": 17729
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 1,
+                        "startOffset": 17921,
+                        "endLine": 283,
+                        "endColumn": 16,
+                        "endOffset": 17990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 17734,
+                    "endLine": 264,
+                    "endColumn": 16,
+                    "endOffset": 17801
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 1,
+                        "startOffset": 17996,
+                        "endLine": 287,
+                        "endColumn": 16,
+                        "endOffset": 18065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 17806,
+                    "endLine": 267,
+                    "endColumn": 16,
+                    "endOffset": 17914
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 1,
+                        "startOffset": 18071,
+                        "endLine": 291,
+                        "endColumn": 16,
+                        "endOffset": 18181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 17919,
+                    "endLine": 271,
+                    "endColumn": 19,
+                    "endOffset": 18079
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_country_arrays.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 1,
+                        "startOffset": 18187,
+                        "endLine": 296,
+                        "endColumn": 19,
+                        "endOffset": 18350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 18084,
+                    "endColumn": 81,
+                    "endOffset": 18161
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_color_drawables.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 81,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 18166,
+                    "endColumn": 81,
+                    "endOffset": 18243
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_color_drawables.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 81,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 18248,
+                    "endColumn": 45,
+                    "endOffset": 18289
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 45,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 18294,
+                    "endColumn": 55,
+                    "endOffset": 18345
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endColumn": 55,
+                        "endOffset": 1644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 18350,
+                    "endColumn": 67,
+                    "endOffset": 18413
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1650,
+                        "endColumn": 67,
+                        "endOffset": 1713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 18418,
+                    "endColumn": 65,
+                    "endOffset": 18479
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2226,
+                        "endColumn": 65,
+                        "endOffset": 2287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 18484,
+                    "endColumn": 67,
+                    "endOffset": 18547
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 67,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 18552,
+                    "endColumn": 67,
+                    "endOffset": 18615
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1367,
+                        "endColumn": 67,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 18620,
+                    "endColumn": 58,
+                    "endOffset": 18674
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1307,
+                        "endColumn": 58,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 18679,
+                    "endColumn": 64,
+                    "endOffset": 18739
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1436,
+                        "endColumn": 64,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 18744,
+                    "endColumn": 74,
+                    "endOffset": 18814
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endColumn": 74,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 18819,
+                    "endColumn": 81,
+                    "endOffset": 18896
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1087,
+                        "endColumn": 81,
+                        "endOffset": 1164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 18901,
+                    "endColumn": 74,
+                    "endOffset": 18971
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 74,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 18976,
+                    "endColumn": 69,
+                    "endOffset": 19041
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 69,
+                        "endOffset": 1005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 19046,
+                    "endColumn": 56,
+                    "endOffset": 19098
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2693,
+                        "endColumn": 56,
+                        "endOffset": 2745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 19103,
+                    "endColumn": 60,
+                    "endOffset": 19159
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2811,
+                        "endColumn": 60,
+                        "endOffset": 2867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 19164,
+                    "endColumn": 58,
+                    "endOffset": 19218
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2751,
+                        "endColumn": 58,
+                        "endOffset": 2805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 19223,
+                    "endColumn": 60,
+                    "endOffset": 19279
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2440,
+                        "endColumn": 60,
+                        "endOffset": 2496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 19284,
+                    "endColumn": 69,
+                    "endOffset": 19349
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2873,
+                        "endColumn": 69,
+                        "endOffset": 2938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 19354,
+                    "endColumn": 60,
+                    "endOffset": 19410
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2569,
+                        "endColumn": 60,
+                        "endOffset": 2625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 19415,
+                    "endColumn": 58,
+                    "endOffset": 19469
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2380,
+                        "endColumn": 58,
+                        "endOffset": 2434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 19474,
+                    "endColumn": 60,
+                    "endOffset": 19530
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2631,
+                        "endColumn": 60,
+                        "endOffset": 2687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 19535,
+                    "endColumn": 65,
+                    "endOffset": 19596
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2502,
+                        "endColumn": 65,
+                        "endOffset": 2563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 19601,
+                    "endColumn": 70,
+                    "endOffset": 19667
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1502,
+                        "endColumn": 70,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 19672,
+                    "endColumn": 320,
+                    "endOffset": 19988
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 320,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 19993,
+                    "endColumn": 326,
+                    "endOffset": 20315
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 326,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 20320,
+                    "endColumn": 61,
+                    "endOffset": 20377
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1966,
+                        "endColumn": 61,
+                        "endOffset": 2023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 20382,
+                    "endColumn": 64,
+                    "endOffset": 20442
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1900,
+                        "endColumn": 64,
+                        "endOffset": 1960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 20447,
+                    "endColumn": 57,
+                    "endOffset": 20500
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1246,
+                        "endColumn": 57,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 20505,
+                    "endColumn": 59,
+                    "endOffset": 20560
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2104,
+                        "endColumn": 59,
+                        "endOffset": 2159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 20565,
+                    "endColumn": 55,
+                    "endOffset": 20616
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2047,
+                        "endColumn": 55,
+                        "endOffset": 2098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 20621,
+                    "endColumn": 57,
+                    "endOffset": 20674
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2165,
+                        "endColumn": 57,
+                        "endOffset": 2218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 20679,
+                    "endColumn": 55,
+                    "endOffset": 20730
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 883,
+                        "endColumn": 55,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 20735,
+                    "endColumn": 66,
+                    "endOffset": 20797
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2293,
+                        "endColumn": 66,
+                        "endOffset": 2355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 20802,
+                    "endColumn": 46,
+                    "endOffset": 20844
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 4168,
+                        "endColumn": 46,
+                        "endOffset": 4210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 20849,
+                    "endColumn": 109,
+                    "endOffset": 20954
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1501,
+                        "endColumn": 109,
+                        "endOffset": 1606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 20959,
+                    "endColumn": 61,
+                    "endOffset": 21016
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4216,
+                        "endColumn": 61,
+                        "endOffset": 4273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 21021,
+                    "endColumn": 52,
+                    "endOffset": 21069
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 3449,
+                        "endColumn": 49,
+                        "endOffset": 3497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 21074,
+                    "endColumn": 50,
+                    "endOffset": 21120
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4325,
+                        "endColumn": 50,
+                        "endOffset": 4371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 21125,
+                    "endColumn": 125,
+                    "endOffset": 21246
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 1,
+                        "startOffset": 5058,
+                        "endColumn": 122,
+                        "endOffset": 5179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 21251,
+                    "endColumn": 46,
+                    "endOffset": 21293
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 2482,
+                        "endColumn": 43,
+                        "endOffset": 2524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 21298,
+                    "endColumn": 48,
+                    "endOffset": 21342
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 3014,
+                        "endColumn": 45,
+                        "endOffset": 3058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 21347,
+                    "endColumn": 44,
+                    "endOffset": 21387
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 2255,
+                        "endColumn": 41,
+                        "endOffset": 2295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 21392,
+                    "endColumn": 50,
+                    "endOffset": 21438
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 2572,
+                        "endColumn": 47,
+                        "endOffset": 2618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 21443,
+                    "endColumn": 50,
+                    "endOffset": 21489
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 2069,
+                        "endColumn": 47,
+                        "endOffset": 2115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 21494,
+                    "endColumn": 69,
+                    "endOffset": 21559
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3982,
+                        "endColumn": 69,
+                        "endOffset": 4047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 21564,
+                    "endColumn": 131,
+                    "endOffset": 21691
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1612,
+                        "endColumn": 131,
+                        "endOffset": 1739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 21696,
+                    "endColumn": 46,
+                    "endOffset": 21738
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 2924,
+                        "endColumn": 43,
+                        "endOffset": 2966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 21743,
+                    "endColumn": 54,
+                    "endOffset": 21793
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 2721,
+                        "endColumn": 51,
+                        "endOffset": 2771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 21798,
+                    "endColumn": 53,
+                    "endOffset": 21847
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 1,
+                        "startOffset": 5232,
+                        "endColumn": 50,
+                        "endOffset": 5281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 21852,
+                    "endColumn": 49,
+                    "endOffset": 21897
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 1,
+                        "startOffset": 5184,
+                        "endColumn": 46,
+                        "endOffset": 5229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 21902,
+                    "endColumn": 115,
+                    "endOffset": 22013
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 115,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 22018,
+                    "endColumn": 51,
+                    "endOffset": 22065
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 2671,
+                        "endColumn": 48,
+                        "endOffset": 2718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 22070,
+                    "endColumn": 52,
+                    "endOffset": 22118
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 3105,
+                        "endColumn": 49,
+                        "endOffset": 3153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 22123,
+                    "endColumn": 115,
+                    "endOffset": 22234
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 115,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 22239,
+                    "endColumn": 99,
+                    "endOffset": 22334
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 3881,
+                        "endColumn": 96,
+                        "endOffset": 3976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 22339,
+                    "endLine": 393,
+                    "endColumn": 9,
+                    "endOffset": 24219
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_instapaper_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 24224,
+                    "endColumn": 54,
+                    "endOffset": 24274
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3600,
+                        "endColumn": 54,
+                        "endOffset": 3650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 24279,
+                    "endColumn": 55,
+                    "endOffset": 24330
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 3653,
+                        "endColumn": 52,
+                        "endOffset": 3704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 24335,
+                    "endColumn": 57,
+                    "endOffset": 24388
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 3762,
+                        "endColumn": 54,
+                        "endOffset": 3815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 24393,
+                    "endColumn": 61,
+                    "endOffset": 24450
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3821,
+                        "endColumn": 61,
+                        "endOffset": 3878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 24455,
+                    "endColumn": 56,
+                    "endOffset": 24507
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 3707,
+                        "endColumn": 53,
+                        "endOffset": 3759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 24512,
+                    "endColumn": 46,
+                    "endOffset": 24554
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 2210,
+                        "endColumn": 43,
+                        "endOffset": 2252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 24559,
+                    "endColumn": 54,
+                    "endOffset": 24609
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 3355,
+                        "endColumn": 51,
+                        "endOffset": 3405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 24614,
+                    "endColumn": 117,
+                    "endOffset": 24727
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 117,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 24732,
+                    "endColumn": 52,
+                    "endOffset": 24780
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 3304,
+                        "endColumn": 49,
+                        "endOffset": 3352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 24785,
+                    "endColumn": 115,
+                    "endOffset": 24896
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1036,
+                        "endColumn": 115,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 24901,
+                    "endColumn": 48,
+                    "endOffset": 24945
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4053,
+                        "endColumn": 48,
+                        "endOffset": 4097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 24950,
+                    "endColumn": 112,
+                    "endOffset": 25058
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1387,
+                        "endColumn": 112,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 25063,
+                    "endColumn": 63,
+                    "endOffset": 25122
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4103,
+                        "endColumn": 63,
+                        "endOffset": 4162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 25127,
+                    "endColumn": 42,
+                    "endOffset": 25165
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 3408,
+                        "endColumn": 39,
+                        "endOffset": 3446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 25170,
+                    "endColumn": 105,
+                    "endOffset": 25271
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 105,
+                        "endOffset": 1030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 25276,
+                    "endColumn": 51,
+                    "endOffset": 25323
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 2621,
+                        "endColumn": 48,
+                        "endOffset": 2668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 25328,
+                    "endColumn": 46,
+                    "endOffset": 25370
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 1,
+                        "startOffset": 4374,
+                        "endColumn": 43,
+                        "endOffset": 4416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 25375,
+                    "endColumn": 48,
+                    "endOffset": 25419
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 3257,
+                        "endColumn": 45,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 25424,
+                    "endColumn": 68,
+                    "endOffset": 25488
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 1,
+                        "startOffset": 4719,
+                        "endColumn": 65,
+                        "endOffset": 4783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 25493,
+                    "endColumn": 67,
+                    "endOffset": 25556
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 2416,
+                        "endColumn": 64,
+                        "endOffset": 2479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 25561,
+                    "endColumn": 50,
+                    "endOffset": 25607
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 50,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 25612,
+                    "endColumn": 52,
+                    "endOffset": 25660
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 531,
+                        "endColumn": 52,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 25665,
+                    "endColumn": 54,
+                    "endOffset": 25715
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 585,
+                        "endColumn": 54,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 25720,
+                    "endColumn": 62,
+                    "endOffset": 25778
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 62,
+                        "endOffset": 525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 25783,
+                    "endColumn": 73,
+                    "endOffset": 25852
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endColumn": 73,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 25857,
+                    "endColumn": 59,
+                    "endOffset": 25912
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 786,
+                        "endColumn": 56,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 25917,
+                    "endColumn": 74,
+                    "endOffset": 25987
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 713,
+                        "endColumn": 71,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 25992,
+                    "endColumn": 48,
+                    "endOffset": 26036
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 48,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 26041,
+                    "endColumn": 70,
+                    "endOffset": 26107
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 70,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 26112,
+                    "endColumn": 72,
+                    "endOffset": 26180
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 72,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 26185,
+                    "endColumn": 66,
+                    "endOffset": 26247
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 66,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 26252,
+                    "endColumn": 92,
+                    "endOffset": 26340
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 92,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 26345,
+                    "endColumn": 52,
+                    "endOffset": 26393
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 2873,
+                        "endColumn": 49,
+                        "endOffset": 2921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 26398,
+                    "endColumn": 115,
+                    "endOffset": 26509
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 115,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 26514,
+                    "endColumn": 44,
+                    "endOffset": 26554
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 4279,
+                        "endColumn": 44,
+                        "endOffset": 4319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 26559,
+                    "endColumn": 46,
+                    "endOffset": 26601
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3552,
+                        "endColumn": 46,
+                        "endOffset": 3594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 26606,
+                    "endColumn": 38,
+                    "endOffset": 26640
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 2774,
+                        "endColumn": 35,
+                        "endOffset": 2808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 26645,
+                    "endColumn": 108,
+                    "endOffset": 26749
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 108,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 26754,
+                    "endColumn": 44,
+                    "endOffset": 26794
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1858,
+                        "endColumn": 41,
+                        "endOffset": 1898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 26799,
+                    "endColumn": 46,
+                    "endOffset": 26841
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 2165,
+                        "endColumn": 43,
+                        "endOffset": 2207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 26846,
+                    "endColumn": 68,
+                    "endOffset": 26910
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 1,
+                        "startOffset": 4652,
+                        "endColumn": 65,
+                        "endOffset": 4716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 26915,
+                    "endColumn": 69,
+                    "endOffset": 26980
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 4584,
+                        "endColumn": 66,
+                        "endOffset": 4649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 26985,
+                    "endColumn": 66,
+                    "endOffset": 27047
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 1,
+                        "startOffset": 4786,
+                        "endColumn": 63,
+                        "endOffset": 4848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 27052,
+                    "endColumn": 56,
+                    "endOffset": 27104
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 1,
+                        "startOffset": 4529,
+                        "endColumn": 53,
+                        "endOffset": 4581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 27109,
+                    "endColumn": 62,
+                    "endOffset": 27167
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 4468,
+                        "endColumn": 59,
+                        "endOffset": 4526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 27172,
+                    "endColumn": 70,
+                    "endOffset": 27238
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 1,
+                        "startOffset": 4851,
+                        "endColumn": 67,
+                        "endOffset": 4917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 27243,
+                    "endColumn": 66,
+                    "endOffset": 27305
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 1,
+                        "startOffset": 4920,
+                        "endColumn": 63,
+                        "endOffset": 4982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 27310,
+                    "endColumn": 59,
+                    "endOffset": 27365
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 2298,
+                        "endColumn": 56,
+                        "endOffset": 2353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 27370,
+                    "endColumn": 53,
+                    "endOffset": 27419
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 1,
+                        "startOffset": 5356,
+                        "endColumn": 50,
+                        "endOffset": 5405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 27424,
+                    "endColumn": 65,
+                    "endOffset": 27485
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 1,
+                        "startOffset": 5639,
+                        "endColumn": 62,
+                        "endOffset": 5700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 27490,
+                    "endColumn": 107,
+                    "endOffset": 27593
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 1,
+                        "startOffset": 5408,
+                        "endColumn": 104,
+                        "endOffset": 5511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 27598,
+                    "endColumn": 68,
+                    "endOffset": 27662
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 1,
+                        "startOffset": 5514,
+                        "endColumn": 65,
+                        "endOffset": 5578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 27667,
+                    "endColumn": 59,
+                    "endOffset": 27722
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 1,
+                        "startOffset": 5581,
+                        "endColumn": 56,
+                        "endOffset": 5636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 27727,
+                    "endColumn": 53,
+                    "endOffset": 27776
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1748,
+                        "endColumn": 50,
+                        "endOffset": 1797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 27781,
+                    "endColumn": 50,
+                    "endOffset": 27827
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 1,
+                        "startOffset": 5942,
+                        "endColumn": 47,
+                        "endOffset": 5988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 27832,
+                    "endColumn": 68,
+                    "endOffset": 27896
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 1,
+                        "startOffset": 6044,
+                        "endColumn": 65,
+                        "endOffset": 6108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 27901,
+                    "endColumn": 54,
+                    "endOffset": 27951
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 1,
+                        "startOffset": 5991,
+                        "endColumn": 51,
+                        "endOffset": 6041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 27956,
+                    "endColumn": 48,
+                    "endOffset": 28000
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 1,
+                        "startOffset": 6159,
+                        "endColumn": 45,
+                        "endOffset": 6203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 28005,
+                    "endColumn": 66,
+                    "endOffset": 28067
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 1,
+                        "startOffset": 8225,
+                        "endColumn": 63,
+                        "endOffset": 8287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 28072,
+                    "endColumn": 46,
+                    "endOffset": 28114
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 1,
+                        "startOffset": 6257,
+                        "endColumn": 43,
+                        "endOffset": 6299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 28119,
+                    "endColumn": 58,
+                    "endOffset": 28173
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 1,
+                        "startOffset": 8290,
+                        "endColumn": 55,
+                        "endOffset": 8344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 28178,
+                    "endColumn": 57,
+                    "endOffset": 28231
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 1,
+                        "startOffset": 6830,
+                        "endColumn": 54,
+                        "endOffset": 6883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 28236,
+                    "endColumn": 61,
+                    "endOffset": 28293
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 1,
+                        "startOffset": 6662,
+                        "endColumn": 58,
+                        "endOffset": 6719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 28298,
+                    "endColumn": 69,
+                    "endOffset": 28363
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 1,
+                        "startOffset": 6944,
+                        "endColumn": 66,
+                        "endOffset": 7009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 28368,
+                    "endColumn": 53,
+                    "endOffset": 28417
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 1,
+                        "startOffset": 6722,
+                        "endColumn": 50,
+                        "endOffset": 6771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 28422,
+                    "endColumn": 59,
+                    "endOffset": 28477
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 1,
+                        "startOffset": 6886,
+                        "endColumn": 56,
+                        "endOffset": 6941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 28482,
+                    "endColumn": 57,
+                    "endOffset": 28535
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 1,
+                        "startOffset": 6774,
+                        "endColumn": 54,
+                        "endOffset": 6827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 28540,
+                    "endColumn": 137,
+                    "endOffset": 28673
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 1,
+                        "startOffset": 7350,
+                        "endColumn": 134,
+                        "endOffset": 7483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 28678,
+                    "endColumn": 110,
+                    "endOffset": 28784
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 1,
+                        "startOffset": 7089,
+                        "endColumn": 107,
+                        "endOffset": 7195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 28789,
+                    "endColumn": 78,
+                    "endOffset": 28863
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 1,
+                        "startOffset": 7012,
+                        "endColumn": 75,
+                        "endOffset": 7086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 28868,
+                    "endColumn": 98,
+                    "endOffset": 28962
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 1,
+                        "startOffset": 7486,
+                        "endColumn": 95,
+                        "endOffset": 7580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 28967,
+                    "endColumn": 80,
+                    "endOffset": 29043
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 1,
+                        "startOffset": 7271,
+                        "endColumn": 77,
+                        "endOffset": 7347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 29048,
+                    "endColumn": 71,
+                    "endOffset": 29115
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 1,
+                        "startOffset": 8552,
+                        "endColumn": 68,
+                        "endOffset": 8619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 29120,
+                    "endColumn": 80,
+                    "endOffset": 29196
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 1,
+                        "startOffset": 8622,
+                        "endColumn": 77,
+                        "endOffset": 8698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 29201,
+                    "endColumn": 81,
+                    "endOffset": 29278
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 1,
+                        "startOffset": 8701,
+                        "endColumn": 78,
+                        "endOffset": 8778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 29283,
+                    "endColumn": 116,
+                    "endOffset": 29395
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 1,
+                        "startOffset": 8781,
+                        "endColumn": 113,
+                        "endOffset": 8893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 29400,
+                    "endColumn": 79,
+                    "endOffset": 29475
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 1,
+                        "startOffset": 8896,
+                        "endColumn": 76,
+                        "endOffset": 8971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 471,
+                    "startColumn": 4,
+                    "startOffset": 29480,
+                    "endColumn": 82,
+                    "endOffset": 29558
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 1,
+                        "startOffset": 8974,
+                        "endColumn": 79,
+                        "endOffset": 9052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 29563,
+                    "endColumn": 105,
+                    "endOffset": 29664
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 1,
+                        "startOffset": 9055,
+                        "endColumn": 102,
+                        "endOffset": 9156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 473,
+                    "startColumn": 4,
+                    "startOffset": 29669,
+                    "endColumn": 150,
+                    "endOffset": 29815
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 1,
+                        "startOffset": 9159,
+                        "endColumn": 147,
+                        "endOffset": 9305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 474,
+                    "startColumn": 4,
+                    "startOffset": 29820,
+                    "endColumn": 144,
+                    "endOffset": 29960
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 1,
+                        "startOffset": 9308,
+                        "endColumn": 141,
+                        "endOffset": 9448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 29965,
+                    "endColumn": 97,
+                    "endOffset": 30058
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 1,
+                        "startOffset": 9451,
+                        "endColumn": 94,
+                        "endOffset": 9544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 30063,
+                    "endColumn": 74,
+                    "endOffset": 30133
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 1,
+                        "startOffset": 7198,
+                        "endColumn": 71,
+                        "endOffset": 7268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 477,
+                    "startColumn": 4,
+                    "startOffset": 30138,
+                    "endColumn": 71,
+                    "endOffset": 30205
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 1,
+                        "startOffset": 7790,
+                        "endColumn": 68,
+                        "endOffset": 7857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 30210,
+                    "endColumn": 85,
+                    "endOffset": 30291
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 1,
+                        "startOffset": 8349,
+                        "endColumn": 82,
+                        "endOffset": 8430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 479,
+                    "startColumn": 4,
+                    "startOffset": 30296,
+                    "endColumn": 69,
+                    "endOffset": 30361
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 1,
+                        "startOffset": 7722,
+                        "endColumn": 66,
+                        "endOffset": 7787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 30366,
+                    "endColumn": 239,
+                    "endOffset": 30601
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 1,
+                        "startOffset": 7983,
+                        "endColumn": 236,
+                        "endOffset": 8218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 30606,
+                    "endColumn": 124,
+                    "endOffset": 30726
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 1,
+                        "startOffset": 7860,
+                        "endColumn": 121,
+                        "endOffset": 7980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 482,
+                    "startColumn": 4,
+                    "startOffset": 30731,
+                    "endColumn": 120,
+                    "endOffset": 30847
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 1,
+                        "startOffset": 8433,
+                        "endColumn": 117,
+                        "endOffset": 8549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 483,
+                    "startColumn": 4,
+                    "startOffset": 30852,
+                    "endColumn": 140,
+                    "endOffset": 30988
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 1,
+                        "startOffset": 7583,
+                        "endColumn": 137,
+                        "endOffset": 7719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 30993,
+                    "endColumn": 76,
+                    "endOffset": 31065
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 1,
+                        "startOffset": 6430,
+                        "endColumn": 73,
+                        "endOffset": 6502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 31070,
+                    "endColumn": 72,
+                    "endOffset": 31138
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 1,
+                        "startOffset": 6359,
+                        "endColumn": 69,
+                        "endOffset": 6427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 31143,
+                    "endColumn": 158,
+                    "endOffset": 31297
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 1,
+                        "startOffset": 6505,
+                        "endColumn": 155,
+                        "endOffset": 6659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 31302,
+                    "endColumn": 56,
+                    "endOffset": 31354
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 1,
+                        "startOffset": 5724,
+                        "endColumn": 53,
+                        "endOffset": 5776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 31359,
+                    "endColumn": 52,
+                    "endOffset": 31407
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 1,
+                        "startOffset": 6206,
+                        "endColumn": 49,
+                        "endOffset": 6254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 31412,
+                    "endColumn": 58,
+                    "endOffset": 31466
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 1,
+                        "startOffset": 6302,
+                        "endColumn": 55,
+                        "endOffset": 6356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 31471,
+                    "endColumn": 89,
+                    "endOffset": 31556
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 1,
+                        "startOffset": 5854,
+                        "endColumn": 86,
+                        "endOffset": 5939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 31561,
+                    "endColumn": 76,
+                    "endOffset": 31633
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 1,
+                        "startOffset": 5779,
+                        "endColumn": 73,
+                        "endOffset": 5851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 31638,
+                    "endColumn": 49,
+                    "endOffset": 31683
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 1,
+                        "startOffset": 6111,
+                        "endColumn": 46,
+                        "endOffset": 6156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 493,
+                    "startColumn": 4,
+                    "startOffset": 31688,
+                    "endColumn": 61,
+                    "endOffset": 31745
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 2356,
+                        "endColumn": 58,
+                        "endOffset": 2413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 31750,
+                    "endColumn": 63,
+                    "endOffset": 31809
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 2811,
+                        "endColumn": 60,
+                        "endOffset": 2870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 31814,
+                    "endColumn": 52,
+                    "endOffset": 31862
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 1,
+                        "startOffset": 5284,
+                        "endColumn": 49,
+                        "endOffset": 5332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 31867,
+                    "endColumn": 59,
+                    "endOffset": 31922
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1800,
+                        "endColumn": 56,
+                        "endOffset": 1855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 31927,
+                    "endColumn": 46,
+                    "endOffset": 31969
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 2969,
+                        "endColumn": 43,
+                        "endOffset": 3011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 31974,
+                    "endColumn": 48,
+                    "endOffset": 32018
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 2118,
+                        "endColumn": 45,
+                        "endOffset": 2162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 32023,
+                    "endColumn": 74,
+                    "endOffset": 32093
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 1,
+                        "startOffset": 4985,
+                        "endColumn": 71,
+                        "endOffset": 5055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 32098,
+                    "endColumn": 45,
+                    "endOffset": 32139
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 3061,
+                        "endColumn": 42,
+                        "endOffset": 3102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 32144,
+                    "endColumn": 59,
+                    "endOffset": 32199
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 59,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 32204,
+                    "endColumn": 46,
+                    "endOffset": 32246
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1901,
+                        "endColumn": 43,
+                        "endOffset": 1943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 32251,
+                    "endColumn": 109,
+                    "endOffset": 32356
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 109,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 32361,
+                    "endColumn": 64,
+                    "endOffset": 32421
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 2006,
+                        "endColumn": 61,
+                        "endOffset": 2066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 32426,
+                    "endColumn": 61,
+                    "endOffset": 32483
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1946,
+                        "endColumn": 58,
+                        "endOffset": 2003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 506,
+                    "startColumn": 4,
+                    "startOffset": 32488,
+                    "endColumn": 68,
+                    "endOffset": 32552
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 68,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 32557,
+                    "endColumn": 58,
+                    "endOffset": 32611
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 58,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 32616,
+                    "endColumn": 50,
+                    "endOffset": 32662
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 1,
+                        "startOffset": 3500,
+                        "endColumn": 47,
+                        "endOffset": 3546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 32667,
+                    "endColumn": 113,
+                    "endOffset": 32776
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 113,
+                        "endOffset": 1381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 32781,
+                    "endColumn": 44,
+                    "endOffset": 32821
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 3156,
+                        "endColumn": 41,
+                        "endOffset": 3196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 32826,
+                    "endColumn": 107,
+                    "endOffset": 32929
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 107,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 32934,
+                    "endColumn": 59,
+                    "endOffset": 32989
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 3199,
+                        "endColumn": 56,
+                        "endOffset": 3254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 32994,
+                    "endColumn": 46,
+                    "endOffset": 33036
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 2527,
+                        "endColumn": 43,
+                        "endOffset": 2569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 33041,
+                    "endColumn": 48,
+                    "endOffset": 33085
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 1,
+                        "startOffset": 4419,
+                        "endColumn": 45,
+                        "endOffset": 4463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 33090,
+                    "endColumn": 49,
+                    "endOffset": 33135
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1845,
+                        "endColumn": 49,
+                        "endOffset": 1890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 33140,
+                    "endColumn": 51,
+                    "endOffset": 33187
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1719,
+                        "endColumn": 51,
+                        "endOffset": 1766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 517,
+                    "startColumn": 4,
+                    "startOffset": 33192,
+                    "endColumn": 52,
+                    "endOffset": 33240
+                },
+                "from": {
+                    "file": "F:\\ShareManager\\sharemanager\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1791,
+                        "endColumn": 52,
+                        "endOffset": 1839
+                    }
+                }
+            }
+        ]
+    }
+]

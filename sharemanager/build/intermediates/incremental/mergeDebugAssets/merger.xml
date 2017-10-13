@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\ShareManager\sharemanager\src\main\assets"><file name="ShareSDK.xml" path="F:\ShareManager\sharemanager\src\main\assets\ShareSDK.xml"/></source><source path="F:\ShareManager\sharemanager\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\ShareManager\sharemanager\src\debug\assets"/></dataSet></merger>

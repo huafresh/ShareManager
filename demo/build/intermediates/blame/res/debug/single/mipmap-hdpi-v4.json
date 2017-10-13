@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\ShareManager\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "F:\\ShareManager\\demo\\src\\main\\res\\mipmap-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "F:\\ShareManager\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\share_icon.png",
+        "source": "F:\\ShareManager\\demo\\src\\main\\res\\mipmap-hdpi\\share_icon.png"
+    },
+    {
+        "merged": "F:\\ShareManager\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\ShareManager\\demo\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
